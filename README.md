@@ -1,5 +1,5 @@
 # Screenshot for this project
-![Screenshot of interactive login form]()
+![Screenshot of mechanical-form-animation](conn/IMG_20250901_002556.png)
 
 # Mechanical Form Animation
 
